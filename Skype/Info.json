@@ -1,0 +1,9 @@
+{
+	BundleID: "com.microsoft.skype"
+	Name: "Skype",
+	Icon: "/resources/skype.ico"
+	Hash: "FileHash",
+	Version: "7.44.364"
+	Company: "Microsoft"
+	Author: "Microsoft"
+}
